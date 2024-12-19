@@ -1,0 +1,6 @@
+@ParticipantREST_HostAddress = http://localhost:5044
+
+GET {{ParticipantREST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
